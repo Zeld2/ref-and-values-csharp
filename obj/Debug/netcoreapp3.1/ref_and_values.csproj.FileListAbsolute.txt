@@ -1,0 +1,13 @@
+C:\workspace\ref_and_values\bin\Debug\netcoreapp3.1\ref_and_values.exe
+C:\workspace\ref_and_values\bin\Debug\netcoreapp3.1\ref_and_values.deps.json
+C:\workspace\ref_and_values\bin\Debug\netcoreapp3.1\ref_and_values.runtimeconfig.json
+C:\workspace\ref_and_values\bin\Debug\netcoreapp3.1\ref_and_values.runtimeconfig.dev.json
+C:\workspace\ref_and_values\bin\Debug\netcoreapp3.1\ref_and_values.dll
+C:\workspace\ref_and_values\bin\Debug\netcoreapp3.1\ref_and_values.pdb
+C:\workspace\ref_and_values\obj\Debug\netcoreapp3.1\ref_and_values.csprojAssemblyReference.cache
+C:\workspace\ref_and_values\obj\Debug\netcoreapp3.1\ref_and_values.AssemblyInfoInputs.cache
+C:\workspace\ref_and_values\obj\Debug\netcoreapp3.1\ref_and_values.AssemblyInfo.cs
+C:\workspace\ref_and_values\obj\Debug\netcoreapp3.1\ref_and_values.csproj.CoreCompileInputs.cache
+C:\workspace\ref_and_values\obj\Debug\netcoreapp3.1\ref_and_values.dll
+C:\workspace\ref_and_values\obj\Debug\netcoreapp3.1\ref_and_values.pdb
+C:\workspace\ref_and_values\obj\Debug\netcoreapp3.1\ref_and_values.genruntimeconfig.cache
