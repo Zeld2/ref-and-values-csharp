@@ -1,0 +1,15 @@
+C:\workspace\ref-keyword\bin\Debug\net6.0\ref-keyword.exe
+C:\workspace\ref-keyword\bin\Debug\net6.0\ref-keyword.deps.json
+C:\workspace\ref-keyword\bin\Debug\net6.0\ref-keyword.runtimeconfig.json
+C:\workspace\ref-keyword\bin\Debug\net6.0\ref-keyword.dll
+C:\workspace\ref-keyword\bin\Debug\net6.0\ref-keyword.pdb
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.csproj.AssemblyReference.cache
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.AssemblyInfoInputs.cache
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.AssemblyInfo.cs
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.csproj.CoreCompileInputs.cache
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.dll
+C:\workspace\ref-keyword\obj\Debug\net6.0\refint\ref-keyword.dll
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.pdb
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref-keyword.genruntimeconfig.cache
+C:\workspace\ref-keyword\obj\Debug\net6.0\ref\ref-keyword.dll
